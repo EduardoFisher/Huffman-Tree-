@@ -1,3 +1,3 @@
 # Huffman-Tree-
 
-Example program of data compression called huffman. 
+Example program of lossless data compression called huffman tree. 
